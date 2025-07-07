@@ -1,3 +1,5 @@
+/// <reference types="cypress"/>
+
 describe("Customer raise dispute", () => {
     const email = "newestkycitititsijiwayabank@yopmail.com";
     const password = "Password123";
